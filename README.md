@@ -15,4 +15,4 @@
 - **HTML**: Estruturação do conteúdo da página.
 - **CSS**: Estilização da página, incluindo animações e transições.
 - **JavaScript**: Lógica para validação do formulário e interação com o usuário.
-- - **React**: Biblioteca JavaScript para construção da interface de usuário dinâmica.
+- **React**: Biblioteca JavaScript para construção da interface de usuário dinâmica.
